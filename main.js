@@ -7,4 +7,4 @@ asdjnfakasdkfhfh
 `
 
 
-console.log(str.match(/\.$/gim))
+console.log(/(?=)/g)
